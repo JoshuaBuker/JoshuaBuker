@@ -6,6 +6,7 @@
   ### About me:
   - Lead Programmer for [Metal Mallards FRC Robotics Team](https://github.com/metalmallards4692)
   - Enjoyer of Java 
+  - Thrives for clean, understandable code
   ### Current Projects:
   - Learning Pathfinder 2.0 and trajectory based autonomous commands for Robotics
   - 2D Java Game 
