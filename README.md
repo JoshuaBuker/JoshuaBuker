@@ -4,12 +4,12 @@
   I'm a self-taught programmer with an evergrowing thirst for knowledge.
   
   ### About me:
-  - Lead Programmer for [Metal Mallards FRC Robotics Team](https://github.com/metalmallards4692)
+  - Programming Mentor for [Metal Mallards FRC Robotics Team](https://github.com/metalmallards4692)
   - Enjoyer of Java 
   - Thrives for clean, understandable code
   ### Current Projects:
-  - Learning Pathfinder 2.0 and trajectory based autonomous commands for Robotics
-  - 2D Java Game 
+  - Taking CS170 for C++
+  - Arduino based VR Headset
   - Building up [my Portfolio Website](https://joshuabuker.github.io/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JoshuaBuker&theme=highcontrast&show_icons=true&count_private=true&layout=compact)
