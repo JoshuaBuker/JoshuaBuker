@@ -10,7 +10,7 @@
   ### Current Projects:
   - Taking CS170 for C++
   - Arduino based VR Headset
-  - Building up [my Portfolio Website](https://joshuabuker.github.io/)
+  - Taking freeCodeCamp Web Development Course
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JoshuaBuker&theme=highcontrast&show_icons=true&count_private=true&layout=compact)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaBuker&layout=compact)
