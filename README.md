@@ -8,7 +8,7 @@
   - Enjoyer of Java 
   - Thrives for clean, understandable code
   ### Current Projects:
-  - Learning Java Web Development
+  - Learning Java Web Development and Databases
   - Expanding into Python
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JoshuaBuker&theme=highcontrast&show_icons=true&count_private=true&layout=compact)
