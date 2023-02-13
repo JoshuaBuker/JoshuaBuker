@@ -8,8 +8,9 @@
   - Enjoyer of Java 
   - Thrives for clean, understandable code
   ### Current Projects:
-  - Learning Java Web Development and Databases
+  - Learning Java Networking and Server Backend
   - Expanding into Python
+  - Rebuilding Portfolio website from scratch this time
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JoshuaBuker&theme=highcontrast&show_icons=true&count_private=true&layout=compact)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaBuker&layout=compact)
