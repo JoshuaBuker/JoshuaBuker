@@ -4,7 +4,6 @@
   I'm a self-taught programmer with an evergrowing thirst for knowledge.
   
   ### About me:
-  - Programming Mentor for [Metal Mallards FRC Robotics Team](https://github.com/metalmallards4692)
   - Enjoyer of Java 
   - Thrives for clean, understandable code
   ### Current Projects:
