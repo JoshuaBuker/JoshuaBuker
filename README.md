@@ -13,7 +13,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JoshuaBuker&theme=highcontrast&show_icons=true&count_private=true&layout=compact)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaBuker&layout=compact)
 
-<img src="https://raw.githubusercontent.com/JoshuaBuker/JoshuaBuker/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JoshuaBuker/JoshuaBuker/refs/heads/main/snake-gh.svg" alt="Snake animation" />
 
 <!--
 **JoshuaBuker/JoshuaBuker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
