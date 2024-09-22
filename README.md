@@ -7,9 +7,8 @@
   - Enjoyer of Java 
   - Thrives for clean, understandable code
   ### Current Projects:
-  - Learning Fullstack Web Applications with NodeJS, Express, and React
-  - Expanding into Python Django
-  - Learning Java J2EE and Spring 
+  - Learning Full Stack Web Development with ASP.NET, Spring, NodeJS
+  - Learning embedded programming with C/C++
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JoshuaBuker&theme=highcontrast&show_icons=true&count_private=true&layout=compact)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaBuker&layout=compact)
